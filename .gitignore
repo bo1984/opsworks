@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .rake_test_cache
 
 ###
@@ -5,3 +6,6 @@
 ###
 .chef/*.pem
 .chef/encrypted_data_bag_secret
+=======
+tmp/
+>>>>>>> 1a79ed8d551fb6679ad76f5a81230fe8bdb4a501

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Deprecated
 ==========
 
@@ -35,3 +36,8 @@ Next Steps
 ==========
 
 Read the README file in each of the subdirectories for more information about what goes in those directories.
+=======
+# opsworks
+
+Chef readme.
+>>>>>>> 1a79ed8d551fb6679ad76f5a81230fe8bdb4a501
